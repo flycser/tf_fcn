@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ssh://fj399435@ceashpc-07.rit.albany.edu:22/network/rit/home/fj399435/virtualenv/tf-gpu/bin/python3" name="ssh://fj399435@ceashpc-07.rit.albany.edu:22/network/rit/home/fj399435/virtualenv/tf-gpu/bin/python3">
+        <fileTransfer host="ceashpc-07.rit.albany.edu" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

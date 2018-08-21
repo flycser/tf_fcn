@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ssh://fj399435@ceashpc-07.rit.albany.edu:22/network/rit/home/fj399435/virtualenv/tf-gpu/bin/python3" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="ssh://fj399435@ceashpc-07.rit.albany.edu:22/network/rit/home/fj399435/virtualenv/tf-gpu/bin/python3">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/network/rit/lab/ceashpc/fjie/projects/tf_fcn" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
